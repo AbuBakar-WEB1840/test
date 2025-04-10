@@ -5,6 +5,7 @@ int main(){
 	printf("Line added by dev2");
 	printf("Line added by dev2\n");
 	printf("Line added by dev2\n");
+	printf("Line added by dev2\n");
 }
 
 
